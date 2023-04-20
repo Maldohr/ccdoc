@@ -1,5 +1,5 @@
 # $customEmoji
-Sends a message to a sepecified channel
+Sends a custom emoji from the current used Server.
 
 #### Usage: `$customEmoji[emoji name]`
 <br/>
